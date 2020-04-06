@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author VULCAN
+ *
+ */
+package queue;
